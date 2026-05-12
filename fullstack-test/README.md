@@ -123,12 +123,27 @@ http://localhost:8000/docs
 
 ## Main Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/main%20page.jpg)
+
+## Create User
+
+![Create User](screenshots/create%20user.jpg)
+
+## Edit User
+
+![Edit User](screenshots/edit%20user.jpg)
+
+## Pagination
+
+![Pagination](screenshots/pagination.jpg)
+
+## Search
+
+![Search](screenshots/search.jpg)
 
 ## Swagger API Documentation
 
-![Swagger](screenshots/swagger.png)
-
+![Swagger](screenshots/Swagger%20API%20Documentation.jpg)
 ---
 
 # Future Improvements
